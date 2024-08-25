@@ -6,6 +6,11 @@ You can view a live demo of the project at
 https://shubhamvishe58.github.io/Gemini-Clone/
 
 # Technology Used
-- HTML: For structuring the web pages.
-* CSS: For styling the application.
-+ JavaScript: For implementing dynamic functionalities.
+- **HTML**: For structuring the web pages.
+* **CSS**: For styling the application.
++ **JavaScript**: For implementing dynamic functionalities.
+
+# Features
+- **Google Gemini Functionalities**: All the key features of the Google Gemini tool have been implemented.
+- **Recent Queries Storage**: The application stores recent user queries for easy access.
+- **Fully Responsive Design**: The UI is designed to work seamlessly across all device sizes.
