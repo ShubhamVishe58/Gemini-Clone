@@ -5,7 +5,7 @@ This project is a clone of the Google Gemini tool, created using HTML, CSS, Java
 You can view a live demo of the project at 
 https://shubhamvishe58.github.io/Gemini-Clone/
 
-#Technology Used
-*HTML: For structuring the web pages.
-*CSS: For styling the application.
-*JavaScript: For implementing dynamic functionalities.
+# Technology Used
+- HTML: For structuring the web pages.
+* CSS: For styling the application.
++ JavaScript: For implementing dynamic functionalities.
